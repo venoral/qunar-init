@@ -1,7 +1,7 @@
 ##Qunar项目初始化工具个人定制版（多页面）
 [![](https://img.shields.io/npm/v/qunar-init.svg?style=flat-square)](https://www.npmjs.com/package/qunar-init) [![](https://img.shields.io/npm/dt/qunar-init.svg?style=flat-square)](https://www.npmjs.com/package/qunar-init) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/venoral/qunar-init/blob/master/LICENSE)
 
-参考[Qunar FED](https://github.com/doyoe/html-css-guide#directory)文档目录结构，此脚手架为个人定制版，适合多页面开发。
+参考 [Qunar FED](https://github.com/doyoe/html-css-guide#directory) 文档目录结构，此脚手架为个人定制版，适合多页面开发。
 
 ###Build Setup
 ``` 
@@ -25,7 +25,7 @@ npm run dev
 npm run build
 ```
 
-###Characteristic
+###Feature
 > * 支持sass自动编译
 > * gulp监听更改文件浏览器自动刷新
 
