@@ -31,7 +31,7 @@ let createFile = (name, msg) => {
 <head>
 	<meta charset="utf-8">
 	<title></title>
-	<link rel="icon" href="https://raw.githubusercontent.com/venoral/Test/master/imgs/camel32.ico">
+	<link rel="icon" href="https://raw.githubusercontent.com/venoral/Test/master/imgs/camel128.ico">
 	<link rel="stylesheet" href="./styles/usage/index/index.css">
 </head>
 <body>
@@ -65,7 +65,7 @@ console.log('Hello Qunar!');`;
 <head>
 	<meta charset="utf-8">
 	<title>Hello Qunar</title>
-	<link rel="icon" href="https://raw.githubusercontent.com/venoral/Test/master/imgs/camel32.ico">
+	<link rel="icon" href="https://raw.githubusercontent.com/venoral/Test/master/imgs/camel128.ico">
 	<link rel="stylesheet" href="">
 </head>
 <body>
