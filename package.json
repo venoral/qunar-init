@@ -1,6 +1,6 @@
 {
   "name": "qunar-init",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Qunar项目初始化工具个人定制版（多页面）",
   "bin": {
     "qunar-init": "bin/index.js"
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venoral/qunar-init.git"
+    "url": "https://github.com/venoral/qunar-init.git"
   },
   "author": "venoral",
   "license": "MIT",
