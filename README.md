@@ -8,8 +8,9 @@
 # install scaffold
 npm install -g qunar-init
 
-# mkdir
+# mkdir and cd your project
 mkdir project
+cd project
 
 # init project
 qunar-init init
