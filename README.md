@@ -1,5 +1,5 @@
 ##Qunar项目初始化工具个人定制版（多页面）
-[![](https://img.shields.io/npm/v/qunar-init.svg?style=flat-square)](https://www.npmjs.com/package/qunar-init) [![](https://img.shields.io/npm/dt/qunar-init.svg?style=flat-square)](https://www.npmjs.com/package/qunar-init) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mennghao/qunar-init/blob/master/LICENSE)
+[![](https://img.shields.io/npm/v/qunar-init.svg?style=flat-square)](https://www.npmjs.com/package/qunar-init) [![](https://img.shields.io/npm/dt/qunar-init.svg?style=flat-square)](https://www.npmjs.com/package/qunar-init) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/venoral/qunar-init/blob/master/LICENSE)
 
 参考[Qunar FED](https://github.com/doyoe/html-css-guide#directory)文档目录结构，此脚手架为个人定制版，适合多页面开发。
 
