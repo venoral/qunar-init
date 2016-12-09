@@ -1,6 +1,6 @@
 {
   "name": "qunar-init",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Qunar项目初始化工具个人定制版（多页面）",
   "bin": {
     "qunar-init": "bin/index.js"
