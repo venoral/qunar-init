@@ -1,0 +1,27 @@
+{
+  "name": "qunar-init",
+  "version": "1.0.3",
+  "description": "Qunar项目初始化工具个人定制版（多页面）",
+  "bin": {
+    "qunar-init": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venoral/qunar-init.git"
+  },
+  "author": "venoral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venoral/qunar-init/issues"
+  },
+  "homepage": "https://github.com/venoral/qunar-init#readme",
+  "keywords": [
+    "scaffold"
+  ],
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
